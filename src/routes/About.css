@@ -1,0 +1,14 @@
+.container .container__about {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.container__about .about {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
